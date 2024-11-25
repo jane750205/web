@@ -1,0 +1,11 @@
+/* 標籤選取器{屬性:值;} */
+h1{font-size: 8rem;}
+
+/* 類別選取器{屬性:值;} 需手動套用 在網頁例如P段落字體改顏色，在<P裡頭空一格後輸入class="text-red" */
+.text-red{color:#F6E8B1;}
+
+/* ID選取器 需手動套用 在網頁例如P段落字體改顏色，在<P裡頭空一格後輸入id=important */ 
+#important{font-size: 2rem;color:#F2A6B2 ;}
+
+/* 複合選取器   */
+body p{color: blueviolet;}
